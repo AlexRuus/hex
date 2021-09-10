@@ -1,1 +1,1 @@
-https://github.com/AlexRuus/hex.git
+https://github.com/AlexRuus/hex
