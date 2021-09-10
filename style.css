@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+   
+}
+
+.btn:hover{
+    opacity: 0.9;
+    transform: scale(1.1);
+}
